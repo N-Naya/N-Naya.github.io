@@ -17,3 +17,29 @@ h1{
 	width:275px;
 	border:5px solid lightblue;
 }
+.titlos1{
+	text-decoration:underline solid pink;
+	font-size:30px
+}
+.titlos2{
+	text-decoration:underline solid lightblue;
+	font-size:30px
+}
+.titlos3{
+	text-decoration:underline solid lightgreen;
+	font-size:30px
+}
+h6{
+	text-decoration:bold;
+	font-size:25
+}
+body{
+	border:10px solid black;
+}
+.photo51{
+	width:225;
+}
+.lezanta{
+	text-align:center;
+	font-style:italic;
+}
