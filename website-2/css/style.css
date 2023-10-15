@@ -1,0 +1,19 @@
+h1{
+	color:pink;
+	background-color:black;
+}
+.topimage{
+	width:300px;
+	border:5px solid pink;
+}
+.grammata{
+	font-size:20
+}
+.gif{
+	width:250px;
+	border:5px solid lightgreen;
+}
+.DNA{
+	width:275px;
+	border:5px solid lightblue;
+}
